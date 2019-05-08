@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:categories/:year/:month/:day/:title
+
+# Setup
+title:               Tammie Thong
+tagline:             My website
+description:         An exciting person
+url:                 ''
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Tammie Thong
+  url:               ""
+  email:             tammie.thong@gmail.com
+
+# Custom vars
+version:             3.8.5
