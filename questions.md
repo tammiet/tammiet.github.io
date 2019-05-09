@@ -3,7 +3,7 @@ layout: page
 title: 10 Questions
 ---
 
-<h1>10 Questions</h1>
+# 10 Questions
 
 ### 1. Where are you from?
 
