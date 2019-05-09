@@ -1,0 +1,15 @@
+
+.about-content {
+  display: flex;
+  flex-direction: row;
+  padding-top:2em;
+}
+
+.about-content .my-image {
+  padding-right: 2em;
+}
+
+.about-content .my-image img {
+	border-radius: 50%;
+	width:100em;
+}
