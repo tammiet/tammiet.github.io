@@ -1,4 +1,13 @@
 
+/* 
+ * Customized for my personal website on top of lanyon and poole.
+ */
+
+
+/*
+ * Styling for About page
+ */
+
 .about-content {
   display: flex;
   flex-direction: row;
@@ -6,10 +15,24 @@
 }
 
 .about-content .my-image {
-  padding-right: 2em;
+  padding-right: 1.5em;
+  flex-grow: 1;
+}
+
+.about-content .about-text {
+  flex-grow: 2;
 }
 
 .about-content .my-image img {
 	border-radius: 50%;
-	width:100em;
+}
+
+@media only screen and (max-width: 48em) {
+  .about-content {
+    flex-direction: column;
+    align-items: center;
+  }
+  .about-content .my-image {
+    max-width: 200px;
+  }
 }
