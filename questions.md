@@ -2,6 +2,9 @@
 layout: page
 title: 10 Questions
 ---
+
+<h1>10 Questions</h1>
+
 ### 1. Where are you from?
 
 I’m from Singapore but have spent the last few years going to university and working in the United States. I currently live in the Netherlands with my partner.
