@@ -1,38 +1,14 @@
 ---
-layout: default
-title: Home
+layout: page
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}/{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
+<div class="about-content">
+	<div class="my-image"><img src="/images/tammie-amsterdam.jpeg" alt="Tammie"></div>
+	<div class="about-text">
+		<h2>About</h2>
+		I'm a full stack developer with experience developing in React, Django, C#, and SQL. Since graduating from <a href="https://calvin.edu/">Calvin College</a> two years ago I've worked as a consultant for <a href="http://thenewfoundry.com/">NewFoundry</a> and <a href="https://menloinnovations.com/">Menlo Innovations</a>. I am passionate about helping more girls discover a love for computers. Until I graduated from college, I was a facilitator at <a href="https://girlswhocode.com/">Girls Who Code</a> and part of <a href="https://sites.google.com/view/ignitecs">Google's IgniteCS</a> program.
+    <br />
+    <br />
+    Go to <a href="/questions"/>10 Questions</a> for a Q&A with me!
+	</div>
 </div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
-

@@ -5,8 +5,8 @@ permalink:           /:categories/:year/:month/:day/:title
 
 # Setup
 title:               Tammie Thong
-tagline:             My website
-description:         An exciting person
+# tagline:             My website
+# description:         An exciting person
 url:                 ''
 baseurl:             ''
 paginate:            5
