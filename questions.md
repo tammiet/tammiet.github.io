@@ -43,4 +43,4 @@ I love participating in Meetup groups for women in technology. In the past I've 
 
 ### 10. How can I work with you?
 
-You can find my resume and contact information [here](https://drive.google.com/file/d/1S8L_AHklIJpyAZuL-xn_EuSXrsYKFyZB/view).
+You can find my resume and contact information [here](https://drive.google.com/file/d/0B8NSKFFnyrQ9Y0dGSHlJRGZFd1U/view?usp=sharing).
