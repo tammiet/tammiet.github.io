@@ -41,6 +41,5 @@ I love to be able have more experience using Devops tools for continuous integra
 
 I love participating in Meetup groups for women in technology. In the past I've taught at Girls Who Code and have interned a coding bootcamp in Detroit called Grand Circus. My most recent Meetup group since moving to the Netherlands is the Amsterdam chapter of She's Coding.
 
-### 10. How can I work with you?
-
-You can find my resume and contact information [here](https://drive.google.com/file/d/0B8NSKFFnyrQ9Y0dGSHlJRGZFd1U/view?usp=sharing).
+### 10. How can you contact me?
+Drop me an email at [tammie.thong@gmail.com](mailto:tammie.thong@gmail.com)!
