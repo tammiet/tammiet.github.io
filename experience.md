@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Experience
 ---
+
+# Work Experience
+
 
 Contact
 ---------
-tammie.thong@gmail.com
+[tammie.thong@gmail.com](mailto:tammie.thong@gmail.com)
 
 +31 683779053
+
 
 Full-Stack Software Engineering Experience
 ---------
@@ -24,7 +27,7 @@ Technical Projects
 * Developed learning web apps in ReactJS. The apps allows users to learn about Bosch’s E1x and GTM microcontrollers through narrated slides, featuring animated SVGs to highlight portions of the microcontroller. 
 * Created a custom IDE which allows users to drag and drop blocks of ‘code’ onto the IDE. Users are able to step through the code using a debugger. The rendered code is used to run the simulated microcontroller’s clock cycle.
 * Used HTML canvas to make a ‘machine’ which simulates scheduling algorithms (eg. round robin, single prioritization). Users were able to use a customized switch widget to turn ‘on’ and ‘off’ channels.
-Was in charge of QA on multiple interfaces (tablets, Chrome, Firefox, Edge and Internet Explorer 11) and communicating with the client throughout the QA process
+*	Was in charge of QA on multiple interfaces (tablets, Chrome, Firefox, Edge and Internet Explorer 11) and communicating with the client throughout the QA process
 
 :	*Jumpstart Clearinghouse – Jump$tart Coalition for Financial Literacy*
 * View at clearinghouse.jumpstart.org
@@ -54,3 +57,21 @@ Education
 :   **BSc, Biological Sciences**, Calvin College (USA)
 
     *Minor: Biochemistry*
+
+University Technical Projects
+--------
+**Shelter Valley Folk Festival Website**
+:	Created a website using Drupal 7 for a folk festival in Ontario, Canada.
+
+**Scrum-tious**
+:	Worked with a team on a recipe & meal planning app for Android using Java.
+
+Other Work Experience
+--------
+**Instructor**, Girls Who Code (GWC)
+* Taught intermediate programming concepts to secondary school students in Python, JavaScript, HTML.
+* Applied for, and received a $10,000 grant from Google’s igniteCS program to run my GWC club.
+
+**Phonathon Officer & Supervisor**, Calvin College Annual Fund
+* Interviewed, trained, and mentored student employees.
+* Consistently raised the most amount of money amongst employees.
