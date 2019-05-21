@@ -2,8 +2,6 @@
 layout: page
 ---
 
-# Work Experience
-
 
 Contact
 ---------
