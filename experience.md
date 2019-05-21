@@ -13,16 +13,15 @@ Software Engineering Experience
 ---
 
 2018
-:	**Menlo Innovations**, software consultancy
+:	[Menlo Innovations](http://menloinnovations.com){:target="_blank"}, software consultancy
 - Developed a financial web application using an ASP.NET framework and MySQL database for a co-op company to do business transactions and accounting.
 - Collaborated with researches to review flow cytometer software's Java code base to obtain FDA approval.
-- Worked on a Django code base for clients of a fertility to keep on-track with the IVF process. This included: doctor appointments, injections, etc.
+- Worked on a Django code base for clients of a fertility clinic to keep track of the IVF process (doctor appointments, injections, etc.).
 
 2017-2018
-:	**NewFoundry**, software consultancy
-- Developed an interactive ReactJS web app for electrical engineers to learn about microcontrollers for a large automotive company.
+:	[NewFoundry](http://thenewfoundry.com){:target="_blank"}, software consultancy
+- Developed learning web apps in ReactJS. The apps allow users to learn about microcontrollers through narrated slides, featuring animated SVGs to highlight portions of the microcontroller. In addition, I worked on a custom IDE which allows users to drag and drop blocks of ‘code’ onto the IDE. Users are able to step through the code using a debugger. The rendered code is used to run the simulated microcontroller’s clock cycle.
 - Worked on Django code base for an online bookstore for a financial literacy organization.
-
 
 Internship Experience
 ---
