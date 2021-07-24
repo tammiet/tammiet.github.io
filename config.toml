@@ -1,0 +1,44 @@
+baseURL = "https://tammie.site/"
+languageCode = "en-US"
+title = "Tammie Thong"
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "img/tammie-amsterdam.jpeg"
+  author = "Tammie"
+  description = "Describe your website"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "tammiet"
+  # Email         = "email@example.com"
+  # LinkedIn      = "tammiet"
+  # RSS           = "/blog/index.xml"
+
+## Main Menu
+# [[menu.main]]
+#   name = "blog"
+#   weight = 100
+#   identifier = "blog"
+#   url = "/blog/"
+[[menu.main]]
+  name = "Questions"
+  weight = 100
+  identifier = "questions"
+  url = "/questions/"
+# [[menu.main]]
+#   name = "projects"
+#   identifier = "projects"
+#   weight = 200
+#   url = "/projects/"
+# [[menu.main]]
+#   name = "resume"
+#   identifier = "resume"
+#   weight = 300
+#   url = "/resume/"
