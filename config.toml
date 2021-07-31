@@ -8,7 +8,7 @@ theme = "hugo-sustain"
 
 [params]
   avatar = "img/tammie-amsterdam.jpeg"
-  author = "Tammie"
+  author = "Tammie Thong"
   description = "Describe your website"
 
   # Custom assets can be linked with their paths relative to static/
@@ -28,7 +28,7 @@ theme = "hugo-sustain"
 #   identifier = "blog"
 #   url = "/blog/"
 [[menu.main]]
-  name = "Questions"
+  name = "10 Questions"
   weight = 100
   identifier = "questions"
   url = "/questions/"
